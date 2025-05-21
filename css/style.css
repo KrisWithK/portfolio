@@ -277,7 +277,6 @@ span {
 @media (max-width: 995px) {
   header {
     max-width: 100vw;
-    flex-wrap: wrap;
   }
 
   .hero {
